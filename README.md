@@ -14,12 +14,7 @@
 
 #include <stdio.h>
 
-
-
-
 // Function for finding NSDs using the Euclidean algorithmThe time it takes to eat a cake
-
-
 
 int gcd(int a, int b) {
    
